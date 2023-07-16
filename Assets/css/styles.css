@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;500&family=Roboto:wght@300;500&display=swap');
+/*  !important;  se usa para darle prioridas a un atributo de css */
+* {
+    font-family: 'Roboto', sans-serif;
+}
+.container-fluid h2{
+    color: white;
+}
+.card-body {
+color: #707070;
+}
+.card-title {
+    color: #212529;
+}
+.container strong {
+    color: #28A745;
+}
+.footer {
+    color: #707070;
+}
